@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding:0px;
+    font-family: sans-serif;
+    background-color:whitesmoke;
+}
+#imgStyle{
+    height: 274px;
+    width: 360px;
+    padding-top:125px;
+   
+}
+
+#table1{
+    margin-top: 120px;
+    padding:42px;
+    padding-left: 40px;
+    background-color: white;
+    
+}
+button{
+    border-radius:50px;
+    width:80px;
+    height: 80px;
+    padding:20px;
+    background-color:#4bae14;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+#sehaLogo{
+    width:auto;
+    height: 65px;
+    text-align: center;
+}
+p{
+   font-size:13px;
+}
+#div1{
+    position:relative;
+    opacity: -2 #75746f;
+}
+#div2{
+    position:absolute;
+    right: 26%;
+    top:40%;
+    font-size:40px;
+    color:white;
+    font-weight: bold;
+}
+
